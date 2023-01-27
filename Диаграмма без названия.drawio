@@ -1,4 +1,4 @@
-<mxfile modified="2023-01-27T17:43:59.469Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MCd7Y3SdZX0SjBkSZdNW" version="20.8.13" type="github">
+<mxfile modified="2023-01-27T17:44:47.999Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="G_yuTJhlIJV4fFMYjLAW" version="20.8.13" type="github">
   <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
     <mxGraphModel dx="1629" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,32 +37,8 @@
         <mxCell id="FAqqYp1BBgdFSwhmG2V6-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
           <mxGeometry x="64" y="64" width="50" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-16" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7308.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="320" y="304" width="178" height="214.58" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-30" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
-          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-32" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
-          <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-31" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
-          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-33" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7010T-48.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
-          <mxGeometry x="8" y="77.1" width="162" height="16.7" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-35" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050TX-128.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
-          <mxGeometry x="8" y="110.5" width="162" height="33.4" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-34" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7010T-48.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
-          <mxGeometry x="8" y="93.8" width="162" height="16.7" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-36" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7150S-24.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
-          <mxGeometry x="8" y="143.89999999999998" width="162" height="16.7" as="geometry" />
-        </mxCell>
         <mxCell id="mpq5AgpwV83IM184FDqD-17" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="560" y="387" width="178" height="131.79" as="geometry" />
+          <mxGeometry x="370" y="300" width="178" height="131.79" as="geometry" />
         </mxCell>
         <mxCell id="mpq5AgpwV83IM184FDqD-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CM-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
           <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
@@ -72,15 +48,6 @@
         </mxCell>
         <mxCell id="mpq5AgpwV83IM184FDqD-39" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-6C2-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
           <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-40" value="Arista rack equipment layout" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="580" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-41" value="Location:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="580" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-42" value="Investor:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="40" y="110" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FAqqYp1BBgdFSwhmG2V6-42" value="Коммутатор PoE DS-S2624P(B)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-75" y="300" width="200" height="30" as="geometry" />
