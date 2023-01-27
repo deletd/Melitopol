@@ -1,1 +1,115 @@
-<mxfile modified="2023-01-27T17:13:08.343Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KRLHyftb91R-5GiYVNsu" version="20.8.13" type="github"><diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">7Zvdd6o4EMD/Gh/h5IMvH622d+859py92+7e+xoFMbtAKMSv/vWbQFAQbbVbCmXrizBADPObSWYmcYDH4fZbQuLlPXO9YICAux3gyQAhhG0gvqRkl0tsx84FfkLdXAQPggf67Cmhes5fUddLKzdyxgJO46pwzqLIm/OKjCQJ21RvW7Cg+qsx8b2a4GFOgrr0J3X5UkmhNTxc+M2j/lL9tIPU+4WkuFm9SbokLtuURPh2gMcJYzw/CrdjL5DKK/SSP3d35uq+Y4kX8UseCOMnc+THm78c/P0eOsbd5GmiQZw3sybBSr2x6i3fFSoQHY/lIQ0zXd2svYRToaEpmXnB7yylnLJIXJ8xzllYumEUUF9e4CwW0uzxURrnlEAhEcdLziXNkew7uvvbl5ak+5QvVzOdMiFyE7KhTAvoLBVn6oskNOVEHEzGD5qNoaWna1+0uuRhIBqF4jCQPbwh83/8hK0id8wClmTvhBfZR9ySiKt/RpQryxOt2FLqpfSZzDINyJ4qJYn38rZn1Q/3UIU3eCz0eLITt6gHHGUGyg9g4RibklXZTi5blgwKG8qgiLJkf9/0AbY4ULyvYW+8zp7FZE75TqlBOBknNPISpd85CwISp/SgqPmSBu6U7NhKdl8q96yOSRCwzTeS+bFsLCSJT6OptyjMIxf8oVRxkDxKcyqd3yi7y0QCEC9xtrKPkEercEJT+SDLuR8RDtn6Wt4vONR5K6gawQkbsFDdBiDGutWUFTg9GQGACX780jBSwwApfmdBt57735gap5m+ik0aekPUhv2h9vBLg8j5OGy7YzqvcRTeZzTEsQgOPj1HlHmfZXw4RhPoYFj+GO1DhX2B6oCH2zagOlg3L5wamxtjC2p9wdjCEAuADivO2TpUaH4FvS0HvdaFI3STUS+6wAw+hW/L+Ekzmwh6zc4Fvcj6gvY2aFeHvE1StHtC0QTgVmQu4x/adPzhKA/ha5so+1I7KFDet4HyrRlMk1FSX0ZaDJx6WfjVnl5QNz79MiICDESoON4vRnxsAOnUAsiDJA8gkV2PIKVtng0h3+YGL5fCMarWwjE4YfGnauEIGrrpNGTzuC+lGFkI1fbLIe85jllXhPmo/UgD9yWB7wZRC3Qg5MB9qa11g6mBO5AR4L4sQgMIHjWjiTrbNUxtW4ftM+1RgeWxqQWqa6hCCC6tiTe4tIEv2DPwObB2wlWHWHfad9W+JHtQltVQE6tVVzmqmFOdcjrfPmHYl5KbyBS/0vmupfOmdZTOOydCylPpPMRQt4dNjWp9sfmGa5P2FUNbF3L6vpWcG1o9uAZrN5LAvuxoy8BaY9Q+104UbIx6WXWk9AWyqREB72lF41C+OAJBPm0ek5fzWXXWL+9lkOcxoxHPOm/eDMyJVPuKC5N4LmZlomwgyCbXM6aRyq0fkZ/PrpohJAsx3as5G4HiXHUMXgTy5dnTqE6eRn1LsFlsHa/keKApXvUC25TNSe5ZoxbAhNR1ZWMvs4HGERvw/myc1tnUC9rfo7WXchnn/b/ZwBN76d8Ljjg9/E0nu1b6sxO+/Rc=</diagram></mxfile>
+<mxfile modified="2023-01-27T17:43:59.469Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MCd7Y3SdZX0SjBkSZdNW" version="20.8.13" type="github">
+  <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
+    <mxGraphModel dx="1629" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mpq5AgpwV83IM184FDqD-13" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7316.svg;html=1;labelBackgroundColor=#ffffff;rackUnitSize=16.7;resizable=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="300" width="178" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-15" value="" style="opacity=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=0;marginRight=0;marginTop=0;marginBottom=0;textColor=#666666;numDisp=off;resizable=0;movable=0;" parent="mpq5AgpwV83IM184FDqD-13" vertex="1">
+          <mxGeometry x="8" y="164" width="162" height="133.6" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-38" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl665a_aruba_6300f_48_port_1gbe_class_4_poe_and_4_port_sfp56_switch_rear;" vertex="1" parent="mpq5AgpwV83IM184FDqD-15">
+          <mxGeometry width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-39" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl660a_aruba_6300m_24_port_hpe_smart_rate_1_2_5_5_gbe_class_6_poe_and_4_port_switch_rear;" vertex="1" parent="mpq5AgpwV83IM184FDqD-15">
+          <mxGeometry y="16.7" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-1" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9778a_2530_48_poeplus_front;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="10" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-3" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl075a_hpe_aruba_3810m_16_port_sfpplus_2_slot_switch;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="26" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-4" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rom68a_aruba_2930m_24p_poe_class_6_switch;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="41" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-18" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-6C2-LC.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="126.99999999999997" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-6C2-LC.svg;aspect=fixed;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="110.29999999999998" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-40" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="8" y="313.6" width="162" height="33.4" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="mpq5AgpwV83IM184FDqD-13">
+          <mxGeometry x="64" y="64" width="50" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-16" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7308.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="304" width="178" height="214.58" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-30" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
+          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-32" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
+          <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-31" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050Q-16.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
+          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-33" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7010T-48.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
+          <mxGeometry x="8" y="77.1" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-35" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7050TX-128.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
+          <mxGeometry x="8" y="110.5" width="162" height="33.4" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-34" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7010T-48.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
+          <mxGeometry x="8" y="93.8" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-36" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7150S-24.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-16" vertex="1">
+          <mxGeometry x="8" y="143.89999999999998" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-17" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="560" y="387" width="178" height="131.79" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CM-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
+          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-38" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CQ-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
+          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-39" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-6C2-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
+          <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-40" value="Arista rack equipment layout" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-41" value="Location:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpq5AgpwV83IM184FDqD-42" value="Investor:" style="text;html=1;resizable=1;points=[];autosize=0;align=left;verticalAlign=middle;spacingTop=-4;fontSize=14;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="40" y="110" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-42" value="Коммутатор PoE DS-S2624P(B)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="300" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-44" value="РоЕ свитч SR-PS1621GBL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="319" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-45" value="PoE-коммутатор HiWatch DS-S504P(B)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-116" y="335" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-46" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&#xa;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&#xa;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-ansi-language:RU;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Сервер&lt;/span&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&#xa;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&#xa;minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&#xa;EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt; SMB QNAP TS-432PXU-2G 4-Bay &lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="405" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-48" value="Сервер Dell PE R640/8x2,5/2xXeon Gold 6238R" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="427" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-49" value="Нейросетевой IP-видеорегистратор TRASSIR NeuroStation Compact RE" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="457" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-50" value="Регистратор DS-7732NI-K4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="476" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-51" value="&lt;p class=&quot;MsoNormal&quot;&gt;Монитор 27&quot; Samsung C27F396FHI&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-101" y="355" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-52" value="ИБП Element 3000 VA, 72VDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="617" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
