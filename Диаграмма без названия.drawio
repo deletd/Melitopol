@@ -1,6 +1,6 @@
-<mxfile modified="2023-01-27T17:44:47.999Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="G_yuTJhlIJV4fFMYjLAW" version="20.8.13" type="github">
+<mxfile modified="2023-01-27T18:40:00.705Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="etDwmxb7XjSWL9ntraLp" version="20.8.13" type="github">
   <diagram id="l2aKFoh6-Bn0gOPZ2l0T" name="Page-1">
-    <mxGraphModel dx="1629" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,16 +38,22 @@
           <mxGeometry x="64" y="64" width="50" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="mpq5AgpwV83IM184FDqD-17" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="370" y="300" width="178" height="131.79" as="geometry" />
+          <mxGeometry x="560" y="295.21" width="178" height="131.79" as="geometry" />
         </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-37" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CM-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-54" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl072a_hpe_aruba_3810m_48_port_gt_1_slot_switch;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
           <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-38" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-12CQ-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-56" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl659a_aruba_6300m_48_port_hpe_smart_rate_1_2_5_5gbe_class_6_poe_and_4_port_switch;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
           <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
         </mxCell>
-        <mxCell id="mpq5AgpwV83IM184FDqD-39" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7500E-6C2-LC.svg;aspect=fixed;" parent="mpq5AgpwV83IM184FDqD-17" vertex="1">
-          <mxGeometry x="8" y="60.4" width="162" height="16.7" as="geometry" />
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-58" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_enhanced_patch_panel_48_ports;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
+          <mxGeometry x="8" y="60.4" width="162" height="33.4" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-61" value="" style="shape=mxgraph.rack.ibm.ibm_1500-2200va_ups;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
+          <mxGeometry x="8" y="93.8" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-60" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="mpq5AgpwV83IM184FDqD-17">
+          <mxGeometry x="8" y="110.5" width="162" height="16.7" as="geometry" />
         </mxCell>
         <mxCell id="FAqqYp1BBgdFSwhmG2V6-42" value="Коммутатор PoE DS-S2624P(B)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-75" y="300" width="200" height="30" as="geometry" />
@@ -75,6 +81,240 @@
         </mxCell>
         <mxCell id="FAqqYp1BBgdFSwhmG2V6-52" value="ИБП Element 3000 VA, 72VDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-75" y="617" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="576" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-55" value="Коммутатор DGS-1210-52/ME/A1A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="311.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-57" value="РоЕ свитч DH-PFS3010-8ET-65" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-59" value="Пачпанель RJ-45 48 порта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="355" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-62" value="ИБП Element 3000 VA, 72VDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-63" value="Блок силовых розеток" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419" y="382" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="591" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="606" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="621" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="636" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="650" y="390" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="664" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="678" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="692" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="706" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-73" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="295.21" width="178" height="131.79" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-74" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl072a_hpe_aruba_3810m_48_port_gt_1_slot_switch;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-73">
+          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-75" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl659a_aruba_6300m_48_port_hpe_smart_rate_1_2_5_5gbe_class_6_poe_and_4_port_switch;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-73">
+          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-76" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_enhanced_patch_panel_48_ports;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-73">
+          <mxGeometry x="8" y="60.4" width="162" height="33.4" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-77" value="" style="shape=mxgraph.rack.ibm.ibm_1500-2200va_ups;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-73">
+          <mxGeometry x="8" y="93.8" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-78" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-73">
+          <mxGeometry x="8" y="110.5" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1026" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-80" value="Коммутатор DGS-1210-52/ME/A1A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="311.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-81" value="РоЕ свитч DH-PFS3010-8ET-65" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="330" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-82" value="Пачпанель RJ-45 48 порта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="849" y="355" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-83" value="ИБП Element 3000 VA, 72VDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="829" y="400" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-84" value="Блок силовых розеток" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="869" y="382" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-85" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1041" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1056" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-87" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1071" y="391" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-88" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1086" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1100" y="390" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-90" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1114" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-91" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1128" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1142" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1156" y="390.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-94" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="300" width="178" height="131.79" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-95" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl072a_hpe_aruba_3810m_48_port_gt_1_slot_switch;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-94">
+          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-96" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl659a_aruba_6300m_48_port_hpe_smart_rate_1_2_5_5gbe_class_6_poe_and_4_port_switch;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-94">
+          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-97" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_enhanced_patch_panel_48_ports;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-94">
+          <mxGeometry x="8" y="60.4" width="162" height="33.4" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-98" value="" style="shape=mxgraph.rack.ibm.ibm_1500-2200va_ups;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-94">
+          <mxGeometry x="8" y="93.8" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-99" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-94">
+          <mxGeometry x="8" y="110.5" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-100" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1466" y="395.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-101" value="Коммутатор DGS-1210-52/ME/A1A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="316.29" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-102" value="РоЕ свитч DH-PFS3010-8ET-65" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="334.79" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-103" value="Пачпанель RJ-45 48 порта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1289" y="359.79" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-104" value="ИБП Element 3000 VA, 72VDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="404.79" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-105" value="Блок силовых розеток" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1309" y="386.79" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1481" y="395.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-107" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1496" y="395.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1511" y="395.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-109" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1526" y="395.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-110" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1540" y="394.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1554" y="395.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-112" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1568" y="395.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-113" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1582" y="395.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-114" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1596" y="395.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-115" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://jgraph.github.io/drawio-libs/libs/arista/DCS-7304.svg;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;container=1;collapsible=0;childLayout=rack;rackUnitSize=16.7;allowGaps=1;marginLeft=8;marginRight=8;marginTop=27;marginBottom=22;textColor=#666666;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="310" width="178" height="131.79" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-116" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl072a_hpe_aruba_3810m_48_port_gt_1_slot_switch;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-115">
+          <mxGeometry x="8" y="27" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-117" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl659a_aruba_6300m_48_port_hpe_smart_rate_1_2_5_5gbe_class_6_poe_and_4_port_switch;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-115">
+          <mxGeometry x="8" y="43.7" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-118" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_enhanced_patch_panel_48_ports;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-115">
+          <mxGeometry x="8" y="60.4" width="162" height="33.4" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-119" value="" style="shape=mxgraph.rack.ibm.ibm_1500-2200va_ups;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-115">
+          <mxGeometry x="8" y="93.8" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-120" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="FAqqYp1BBgdFSwhmG2V6-115">
+          <mxGeometry x="8" y="110.5" width="162" height="16.7" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-121" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1946" y="405.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-122" value="Коммутатор DGS-1210-52/ME/A1A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="326.29" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-123" value="РоЕ свитч DH-PFS3010-8ET-65" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="344.79" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-124" value="Пачпанель RJ-45 48 порта" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1769" y="369.79" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-125" value="ИБП Element 3000 VA, 72VDC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1749" y="414.79" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-126" value="Блок силовых розеток" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1789" y="396.79" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1961" y="405.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-128" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1976" y="405.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-129" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="1991" y="405.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-130" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="2006" y="405.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-131" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="2020" y="404.79" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="2034" y="405.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-133" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="2048" y="405.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-134" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="2062" y="405.29" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="FAqqYp1BBgdFSwhmG2V6-135" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/plug-type-c-128.png" vertex="1" parent="1">
+          <mxGeometry x="2076" y="405.29" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
